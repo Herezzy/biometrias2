@@ -14,7 +14,11 @@
 <body>
 <?php
 
-echo"hola mundo "
+$saludo="hola mundo";
+
+echo $saludo;
+
+
 ?>
 
 </body>
