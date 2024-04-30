@@ -4,6 +4,12 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
+    <form action="">
+        <label for="">nombres</label>
+        <input type="text">
+        <label for="">apellidos</label>
+        <input type="text">
+    </form>
 </head>
 <body>
     
