@@ -16,11 +16,7 @@
 </head>
 <body>
 
-<?php
 
-$mejorgaseosa="cocacola"
-
-?>
     
 </body>
 </html>
