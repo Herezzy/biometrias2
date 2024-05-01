@@ -18,6 +18,7 @@ $saludo="hola mundo";
 
 echo $saludo;
 echo $saludo;
+echo $saludo;
 
 
 ?>
