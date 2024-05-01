@@ -12,6 +12,11 @@
     </form>
 </head>
 <body>
+
+<?php
+$saludo="hola";
+echo $saludo
+?>
     
 </body>
 </html>
