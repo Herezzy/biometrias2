@@ -15,7 +15,7 @@
 
 <?php
 $saludo="hola";
-$suma=2+2
+$suma=2+2;                                                                                      
 echo $saludo;
 echo $suma;
 
