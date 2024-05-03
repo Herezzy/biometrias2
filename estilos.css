@@ -27,7 +27,7 @@ body {
 }
 
 .logo-container img {
-    max-width: 200px;
+    max-width: 250px;
     height: auto;
     display: block; /* Para centrar correctamente la imagen */
     margin: 0 auto; /* Centrar la imagen horizontalmente */
