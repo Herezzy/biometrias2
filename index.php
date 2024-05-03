@@ -21,6 +21,8 @@
                 <label for="password">Contraseña:</label>
                 <input type="password" id="password" name="password" required>
             </div>
+            <a class="text-reg" link href="crear_usuario.php"> <p >¿No está registrado? REGÍSTRESE</p> </a> </br>
+            <a class="text-reg" link href="recuperar_contraseña.php"> <p >¿Olvidó la contraseña?</p> </a>
             <button type="submit">Iniciar Sesión</button>
         </form>
     </div>
